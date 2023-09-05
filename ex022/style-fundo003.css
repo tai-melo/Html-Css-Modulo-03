@@ -1,0 +1,8 @@
+.bloco {
+    background-image: url('imagens/wallpaper002.jpg');
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 20px;
+}
+
