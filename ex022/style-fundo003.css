@@ -6,3 +6,18 @@
     border-radius: 20px;
 }
 
+#q1 {
+    background-position: left top;
+}
+
+#q2 {
+    background-position: center center;
+}
+
+#q3 {
+    background-position: left bottom;
+}
+
+#q4 {
+    background-position: right bottom;
+}
