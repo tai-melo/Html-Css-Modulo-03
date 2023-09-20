@@ -1,13 +1,16 @@
 body {
     height: 100vh;
-    background-color: black;
+   /*  background-color: black;
     background-image: url('imagens/wallpaper002.jpg');
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center top;
-    background-size: 100% 100%;
+    background-size: cover;
+    
+    */
+    background: black url('imagens/wallpaper002.jpg') no-repeat fixed center top/cover; /* usei a barra para separa o size dos outros */
     
    
-
 }
 
 main {
@@ -17,4 +20,5 @@ main {
     border-radius: 15px;
     margin: auto;
     border: solid 1px rgb(200, 226, 241);
+    
 }
