@@ -1,0 +1,13 @@
+#conteiner {
+    background-color: purple;
+    height: 500px;
+    padding: 10px;
+
+}
+
+#conteudo {
+    background-color: yellow;
+    height: 200px;
+    width: 400px;
+    
+}

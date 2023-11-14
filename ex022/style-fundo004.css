@@ -1,8 +1,13 @@
 body {
     background-image: url('https://raw.githubusercontent.com/gustavoguanabara/html-css/master/imagens/mascote.png');
+    
     background-repeat: no-repeat;
+    
     background-size: 100px; /* se height e o width tiverem o msm tamanho pode escrever só uma vez o valor. */
+    
     background-position: center center;/*  precisa colocar tamanho na altura da pagina, senao a imagem vai ficar presa na parte superior */
+    
     border: 2px dashed black;
+    
     height: 100vh;
 }
